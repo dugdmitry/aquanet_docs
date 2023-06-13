@@ -21,10 +21,10 @@ All configuration files are located under the following path:
 
 where `X` - the host ID of Raspberry Pi:
 
-- RPi1 (100.74.94.63): X = 1
-- RPi2 (100.88.44.95): X = 2
-- RPi3 (100.120.115.117): X = 3
-- RPi4 (100.73.149.116): X = 4
+- RPi1: X = 1
+- RPi2: X = 2
+- RPi3: X = 3
+- RPi4: X = 4
 
 There are multiple files under the path, the most important files are:
 
